@@ -1,2 +1,2 @@
 # Java-RobotServer
-Java application server to manage robots
+Java application server to manage my robots
